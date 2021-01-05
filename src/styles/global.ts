@@ -18,7 +18,7 @@ export default createGlobalStyle`
 }
 
 body, input, button {
-  font: 16px Roboto, sans-serif;
+  font: 16px Poppins, Roboto, sans-serif;
 
 }
 #root {
